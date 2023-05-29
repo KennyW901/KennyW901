@@ -1,4 +1,3 @@
-0000000000000000000000000000000000000000000000
-0     hello welcome to kennys github         0
-0     have a nice day~~~                     0
-0000000000000000000000000000000000000000000000
+hello welcome to kennys github
+have a nice day~~~
+
